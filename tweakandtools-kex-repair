@@ -6,13 +6,13 @@ sudo cp stop-kex /usr/local/bin/
 sudo cp passwd-kex /usr/local/bin/
 sudo updatedb
 
-printf "\033[0;33m ##################################################################################"
-printf "\033[0;33m ##	Welcome to Tweakandtools                                                   ##" 
-printf "\033[0;33m ##	Subscribe us https://youtube.com/c/tweakandtools                           ##"
-printf "\033[0;33m ##	telegram https://t.me/tweakandtools                                        ##"
-printf "\033[0;33m ##	facebook https://facebook.com/tweakandtools                                ##"
-printf "\033[0;33m ##################################################################################"
-printf "\033[0;32m passwd-kex                    # to set or change vnc passwd"
-printf "\033[0;32m start-kex                     # to start vnc server"
-printf "\033[0;32m stop-kex                      # to stop vnc server"
-printf "\033[0;31m if you have any doubt then please ask of our telegram channel https://t.me/tweakandtools "
+printf "\033[0;33m #######################################################\n"
+printf "\033[0;33m ##	Welcome to Tweakandtools                          ##\n" 
+printf "\033[0;33m ##	Subscribe us https://youtube.com/c/tweakandtools  ##\n"
+printf "\033[0;33m ##	telegram https://t.me/tweakandtools               ##\n"
+printf "\033[0;33m ##	facebook https://facebook.com/tweakandtools       ##\n"
+printf "\033[0;33m #######################################################\n"
+printf "\033[0;32m passwd-kex  # to set or change vnc passwd\n"
+printf "\033[0;32m start-kex   # to start vnc server\n"
+printf "\033[0;32m stop-kex    # to stop vnc server\n"
+printf "\033[0;31m if you have any doubt then please \n ask of our telegram channel https://t.me/tweakandtools"
