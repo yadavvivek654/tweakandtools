@@ -7,7 +7,7 @@ sudo cp passwd-kex /usr/local/bin/
 sudo updatedb
 
 printf "\033[0;33m ###################################################\n"
-printf "\033[0;33m # Welcome to Tweakandtools                        #\n" 
+printf "\033[0;33m # success!!Welcome to Tweakandtools               #\n" 
 printf "\033[0;33m # Subscribe us https://youtube.com/c/tweakandtools#\n"
 printf "\033[0;33m # telegram https://t.me/tweakandtools             #\n"
 printf "\033[0;33m # facebook https://facebook.com/tweakandtools     #\n"
