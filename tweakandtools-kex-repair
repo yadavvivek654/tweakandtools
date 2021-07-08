@@ -1,5 +1,5 @@
 
-sudo apt-get install tigervnc-standalone-server tigervnc-xorg-extension xfce4 --install-recommends
+sudo apt-get install tigervnc-standalone-server tigervnc-xorg-extension mate --install-recommends
 sudo chmod +x start-kex stop-kex passwd-kex
 sudo cp start-kex /usr/local/bin/
 sudo cp stop-kex /usr/local/bin/
